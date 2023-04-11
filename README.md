@@ -1,8 +1,12 @@
 # -Learn-to-use-OpenAI-API-by-building-ChatGPT-super-simple-React-Node.js
 
+https://www.youtube.com/watch?v=JJ9fkYX7q4A
+
+
 https://raw.githubusercontent.com/RodrigoMvs123/-Learn-to-use-OpenAI-API-by-building-ChatGPT-super-simple-React-Node.js/main/README.md
 
-https://www.youtube.com/watch?v=JJ9fkYX7q4A
+
+https://github.com/RodrigoMvs123/-Learn-to-use-OpenAI-API-by-building-ChatGPT-super-simple-React-Node.js/blame/main/README.md
 
 Terminal 
 aniakubow@Anias-MacBook-Pro ~% cd WebstormProjects 
